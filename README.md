@@ -13,3 +13,5 @@ URL `"amqp://guest:guest@localhost:5672"` di publisher dan subscriber sama artin
 ![Screenshot](./cape.png)
 
 ![Screenshot](./image-3.png)
+
+![Screenshot](./image-4.png)
