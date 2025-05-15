@@ -15,3 +15,5 @@ URL `"amqp://guest:guest@localhost:5672"` di publisher dan subscriber sama artin
 ![Screenshot](./image-3.png)
 
 ![Screenshot](./image-4.png)
+
+Lonjakan pada grafik tersebut menunjukkan peningkatan tajam dalam jumlah pesan yang diproses per detik. Hal ini terjadi karena publisher mengirim beberapa pesan secara cepat dan berturut-turut ke message broker, sehingga menyebabkan tingkat pengiriman pesan melonjak dalam waktu singkat dan terlihat sebagai spike pada grafik.
